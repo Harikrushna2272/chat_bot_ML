@@ -1,6 +1,4 @@
-Name : IntelliChat
-
-# ML-Based Chatbot
+# IntelliChat
 
 A Python-based chatbot implementation using Machine Learning and Natural Language Processing.
 
