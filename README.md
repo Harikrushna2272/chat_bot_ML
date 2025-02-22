@@ -13,7 +13,7 @@ A Python-based chatbot implementation using Machine Learning and Natural Languag
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/chatbot-ml.git
+git clone https://github.com/Harikrushna2272/chatbot-ml.git
 cd chatbot-ml
 
 # Create virtual environment
